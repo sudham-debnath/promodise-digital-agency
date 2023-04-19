@@ -1,0 +1,52 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p, span, small, li {
+    font-family: 'Rubik', sans-serif;
+}
+
+/* Banner Section Design */
+
+.banner-img-1 {
+    background-image: linear-gradient(#040408a6, #040408a6), url(../images/banners/banner-1.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-img-2 {
+    background-image: linear-gradient(#040408a6, #040408a6), url(../images/banners/banner-2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-img-3 {
+    background-image: linear-gradient(#040408a6, #040408a6), url(../images/banners/banner-3.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Banner Section Design */
+
+.services {
+    margin: 7rem 0;
+}
+
+/* Project Section */
+
+.project {
+    background-image: linear-gradient(to left,#000000f0, #000000f0), url(../images/pattern-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p-item {
+    font-size: 60px;
+}
+
+.p-icon {
+    font-size: 40px;
+}
